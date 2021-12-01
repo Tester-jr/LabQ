@@ -3,7 +3,7 @@ FROM gcc:latest
 
 # COPY . /usr/src/cpp_test
 
-WORKDIR /usr/src/cpp_test
+WORKDIR /usr/src/Assignment_2
 
 # RUN g++ Account.cpp Transaction.cpp SimpleClasses.cpp > log_file.txt 2>&1
 
