@@ -1,1 +1,1 @@
-Write a program to OP the IP string
+Given an integer N, the task is to print all the numbers from 1 to N replacing the multiples of 3, 5 and both 3 and 5 by “Fizz”, “Buzz” and “Fizz Buzz” respectively.
